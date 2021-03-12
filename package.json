@@ -1,0 +1,12 @@
+{
+  "name": "OverrideDemo",
+  "description": "Override developers demo.",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "system": {
+      "type": "SAE",
+      "version": "4.20.6"
+    }
+  }
+}
